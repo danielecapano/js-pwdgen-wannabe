@@ -7,7 +7,7 @@ let firstName;
 firstName = prompt("Ciao, qual è il tuo nome?");
 console.log(firstName);
 
-//Chiedere all'utente il suo congnome:
+//Chiedere all'utente il suo cognome:
 
 //Dichiarare una variabile
 let lastName;
@@ -29,7 +29,7 @@ console.log(color);
 //Dichiarare una variabile
 
 let randomNumber;
-//   Assegnare alla variabile il valore restituito dal calcolo
+//Assegnare alla variabile il valore restituito dal calcolo
 randomNumber = Math.floor(Math.random() * 100);
 console.log(randomNumber);
 

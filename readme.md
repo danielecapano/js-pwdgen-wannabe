@@ -5,7 +5,7 @@
   - Dichiarare una variabile
   - Assegnare alla variabile il valore restituito da un prompt
 
-- Chiedere all'utente il suo congnome:
+- Chiedere all'utente il suo cognome:
 
   - Dichiarare una variabile
   - Assegnare alla variabile il valore restituito da un prompt
@@ -26,6 +26,5 @@
   - Dichiarare una variabile passwordValue dove concateniamo tutti i valori ottenuti
 
 - Far apparire a video la striga appena creata:
-  - Inserire nell'html un tag h1 con id="password"
-  - Recuperare con js l'elemento del dom con id="message"
+  - Recuperare con js l'elemento del dom con id="password"
   - Modificare l'innerHTML del h1 con il valore della variabile passwordValue
