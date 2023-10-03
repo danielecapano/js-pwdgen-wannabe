@@ -22,7 +22,7 @@
 
 - Generare il messaggio da far apparire:
 
-  - Dichiarare una variabile che contiene la la prima parte del messaggio:
+  - Dichiarare una variabile che contiene la prima parte del messaggio:
   - Dichiarare una variabile passwordValue dove concateniamo tutti i valori ottenuti
 
 - Far apparire a video la striga appena creata:

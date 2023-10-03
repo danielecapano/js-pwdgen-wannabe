@@ -36,10 +36,10 @@ console.log(randomNumber);
 //Generare il messaggio da far apparire:
 
 //Dichiarare una variabile che contiene la prima parte del messaggio:
-let firstPartOfMessage = "La tua password è: ";
+const firstPartOfMessage = "La tua password è: ";
 
 //Dichiarare una variabile passwordValue dove concateniamo tutti i valori ottenuti
-let passwordValue =
+const passwordValue =
   firstPartOfMessage + firstName + lastName + color + randomNumber;
 console.log(passwordValue);
 //Far apparire a video la striga appena creata:
